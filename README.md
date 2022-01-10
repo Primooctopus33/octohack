@@ -7,12 +7,12 @@ IllegalStackDupe ->
 Salhack
 AutoCrystal ->
 Esohack with a few modifications
-BedAura ->
-Phobos
-BedAura 1.13 ->
-Badlion+
-BowAim ->
-SpiderSense
+--BedAura ->
+--Phobos
+--BedAura 1.13 ->
+--Badlion+
+--BowAim ->
+--SpiderSense
 HephaestusCA ->
 Hephaestus
 PistonCrystal ->
