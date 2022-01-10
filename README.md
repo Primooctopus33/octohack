@@ -43,7 +43,7 @@ Phobos <br />
 NoFall -> <br />
 Phobos <br />
 PhaseWalk -> <br />
-Cousinware, modified and 10x more spaghetti <br />
+Cousinware, modified to bypass cc's old patch and 10x more spaghetti <br />
 Scaffold -> <br />
 Momentum <br />
 Step -> <br />
