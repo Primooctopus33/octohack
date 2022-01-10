@@ -3,7 +3,7 @@ my terrible phobos skid, would not recommend using <br />
 not providing support for this piece of garbage <br />
 Credits: (For the classes i did not list, they were either included in the phobos base i used, made by me or i forgot where they were taken from.) <br />
 AntiLog4j -> <br />
-bush did 711 <br />
+bush did 711, modified to support different strings <br />
 IllegalStackDupe -> <br />
 Salhack <br />
 AutoCrystal -> <br />
