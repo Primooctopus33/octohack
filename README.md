@@ -58,6 +58,8 @@ Animations -> <br />
 Europa <br />
 BlockHighlight -> <br />
 Phobos <br />
+CrystalChams ->
+Kami5 <br />
 BreadCrumbs -> <br />
 Europa <br />
 CustomCrosshair -> <br />
