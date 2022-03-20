@@ -1,7 +1,7 @@
 # octohack-leaked
 my terrible phobos skid, would not recommend using <br />
 no support will be provided <br />
-Credits: (I made almost all the modules not listed here, may have forgotten to list one or two) <br />
+Credits: (I made almost all the modules not listed here, may have forgotten to list one or two, some were included in the phobos base i used) <br />
 AntiLog4j -> <br />
 bush did 711, modified to support different strings <br />
 IllegalStackDupe -> <br />
